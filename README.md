@@ -52,7 +52,8 @@ This is a my Profile Page.
 ---
 
 ## How To Use
-- Visit http://www.Horiseon.com
+- Visit https://kevin-pulley.github.io/week-2-homework/.
+
 #### Installation
 - Google Chrome or any Web Browser
 
