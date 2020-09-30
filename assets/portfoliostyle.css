@@ -6,11 +6,43 @@ body {
 }
 
 h1 {
-    color: #ffff;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10rem;
+    color: gray;
+    text-shadow: -4px 8px darkgrey;
+    line-height: 1;
+    -ms-transform: skewY(-5deg);
+    /* IE 9 compatibility */
+    transform: skewY(-6deg);
+    margin-top: .75rem;
+    -webkit-text-stroke: 2px white;
 }
 
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: scale-down;
+}
+
+ 
+
+.hero {
+   padding-bottom:3rem;
+}
+
+.btn {
+    margin-top: 1rem;
+    background-color: darkgrey;
+    color: black;
+    border: white;
+}
+
+h2 {
+    color: white;
+}
+i {
+    color: black;
+    size: 3x;
 }
